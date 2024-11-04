@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://exizoigo.github.io/IAr/sitemap_index.txt
+Sitemap: https://exizoigo.github.io/Yre/sitemap_index.txt
+Sitemap: https://exizoigo.github.io/gcG/sitemap_index.txt
+Sitemap: https://exizoigo.github.io/hml/sitemap_index.txt
